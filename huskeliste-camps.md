@@ -1,8 +1,8 @@
-HLK huskeliste til The Camps
+# HLK huskeliste til The Camps
 
 Ikke alting skal altid med - men kan overvejes, hvis plads og lyst :-D
 
-Telte og camping
+## Telte og camping
 [ ] Campingbord
 [ ] Campingstole
 [ ] Lange ledninger, den dårlige kabeltromle/langt strømkabel, noget
@@ -11,7 +11,7 @@ Telte og camping
 [ ] Myggedræberen!
 [ ] Ketchere til myg/fluer
 
-Netværk og infrastruktur
+## Netværk og infrastruktur
 [ ] Lange netkabler, 10m
 [ ] Unifi AP med power m.fl.
 [ ] TP-link switch?
@@ -22,7 +22,8 @@ Netværk og infrastruktur
 [ ] Blandede kasser med rPi Beaglebone
 [ ] - måske lange fiberkabler
 
-Systemer
+
+## Systemer
 [ ] xpc02, xpc03
 [ ] Zenbook
 [ ] Mirai skærm plus mange HDMI kabler
@@ -35,24 +36,21 @@ Systemer
 [ ] Stikdåser og netkabler - ca. 10-15 styk
 [ ] Samsung printer
 
-Diverse
+## Diverse
 [ ] Hovedtelefoner/headset
 [ ] Batterier til mus m.v.
 [ ] bøger lidt blandede til mig selv!
 
-Personligt
+## Personligt
 [ ] Sovepose
-
 [ ] Linser
 [ ] Lampe/lygte
 [ ] Selvoppustelig madras
 [ ] Lagen
 [ ] Hovedpude
 [ ] bukser
-
 [ ] shorts
 [ ] Badetøj
-
 [ ] Løbetøj
 [ ] rene t-shirts
 [ ] undertøj/strømper
@@ -61,5 +59,4 @@ Personligt
 [ ] 3-i-en
 [ ] tandbørste
 [ ] Håndklæder
-
 [ ] Iai måske

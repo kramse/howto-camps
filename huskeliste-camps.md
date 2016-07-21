@@ -7,17 +7,11 @@ Ikke alting skal altid med - men kan overvejes, hvis plads og lyst :-D
 - [ ] Lasere, lys, røgmaskinen
 - [ ] Brocade
 
-## Patrick
-- [ ] Telt
-- [ ] Madras
-- [ ] Sovepose, hovedpude, lagen
-- [ ] Computer, stikdåser, skærm, tastatur, mus
-
 ## Telte og camping
 - [ ] Campingbord
 - [ ] Campingstole
 - [ ] Lange ledninger, den dårlige kabeltromle/langt strømkabel, noget
-- [ ] The Camp: Store telt inkl store pressenning
+- [ ] The Camp: Store telt inkl store pressenning, reb osv.
 - [ ] The Camp: HLK Telt
 - [ ] Myggedræberen!
 - [ ] Ketchere til myg/fluer
@@ -25,12 +19,12 @@ Ikke alting skal altid med - men kan overvejes, hvis plads og lyst :-D
 ## Netværk og infrastruktur
 - [ ] Lange netkabler, 10m
 - [ ] Unifi AP med power m.fl.
-- [ ] TP-link switch fra kontoret
-- [ ] Cisco 24-port 100Mbit switchen
+- [ ] TP-link switch fra kontoret?
+- [ ] Brocade switches, 3-4 ICX 6430
+- [ ] ~~Cisco 24-port 100Mbit switchen~~
 - [ ] Internetkassen med EX2200-C og SRX
 - [ ] Routerkassen med Mikrotik routere, PA-200, Cisco
 - [ ] - måske lange fiberkabler
-
 
 ## Systemer
 - [ ] xpc02, xpc03
@@ -68,3 +62,14 @@ Ikke alting skal altid med - men kan overvejes, hvis plads og lyst :-D
 - [ ] 3-i-en
 - [ ] tandbørste
 - [ ] Håndklæder
+
+## Patrick
+- [ ] Telt
+- [ ] Madras
+- [ ] Sovepose, hovedpude, lagen
+- [ ] Computer, stikdåser, skærm, tastatur, mus
+- [ ] Tandbørste
+- [ ] Håndklæde
+- [ ] Lampe
+- [ ] Bukser og shorts
+- [ ] Rene t-shirts

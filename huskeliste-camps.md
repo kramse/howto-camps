@@ -29,7 +29,6 @@ Ikke alting skal altid med - men kan overvejes, hvis plads og lyst :-D
 - [ ] Cisco 24-port 100Mbit switchen
 - [ ] Internetkassen med EX2200-C og SRX
 - [ ] Routerkassen med Mikrotik routere, PA-200, Cisco
-- [ ]
 - [ ] - måske lange fiberkabler
 
 

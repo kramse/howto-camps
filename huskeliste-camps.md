@@ -5,7 +5,7 @@ Ikke alting skal altid med - men kan overvejes, hvis plads og lyst :-D
 ## Denne gang The Camp 2016
 - [ ] Rom en flaske
 - [ ] Lasere, lys, røgmaskinen
-- [ ] Brocade
+- [ ] Brocade switches, 3-4 ICX 6430
 
 ## Telte og camping
 - [ ] Campingbord
@@ -20,7 +20,6 @@ Ikke alting skal altid med - men kan overvejes, hvis plads og lyst :-D
 - [ ] Lange netkabler, 10m
 - [ ] Unifi AP med power m.fl.
 - [ ] TP-link switch fra kontoret?
-- [ ] Brocade switches, 3-4 ICX 6430
 - [ ] ~~Cisco 24-port 100Mbit switchen~~
 - [ ] Internetkassen med EX2200-C og SRX
 - [ ] Routerkassen med Mikrotik routere, PA-200, Cisco

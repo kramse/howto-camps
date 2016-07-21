@@ -1,6 +1,17 @@
-# HLK huskeliste til The Camps
+# HLK huskeliste til Camps
 
 Ikke alting skal altid med - men kan overvejes, hvis plads og lyst :-D
+
+## Denne gang The Camp 2016
+- [ ] Rom en flaske
+- [ ] Lasere, lys, røgmaskinen
+- [ ] Brocade
+
+## Patrick
+- [ ] Telt
+- [ ] Madras
+- [ ] Sovepose, hovedpude, lagen
+- [ ] Computer, stikdåser, skærm, tastatur, mus
 
 ## Telte og camping
 - [ ] Campingbord
@@ -14,32 +25,31 @@ Ikke alting skal altid med - men kan overvejes, hvis plads og lyst :-D
 ## Netværk og infrastruktur
 - [ ] Lange netkabler, 10m
 - [ ] Unifi AP med power m.fl.
-- [ ] TP-link switch?
-
-- [ ] Cisco 24-port 100Mbit switchen?
+- [ ] TP-link switch fra kontoret
+- [ ] Cisco 24-port 100Mbit switchen
 - [ ] Internetkassen med EX2200-C og SRX
 - [ ] Routerkassen med Mikrotik routere, PA-200, Cisco
-- [ ] Blandede kasser med rPi Beaglebone
+- [ ]
 - [ ] - måske lange fiberkabler
 
 
 ## Systemer
 - [ ] xpc02, xpc03
 - [ ] Zenbook
+- [ ] Librem
+- [ ] Thunderbolt skærm?
 - [ ] Mirai skærm plus mange HDMI kabler
-- [ ] Tastatur
-- [ ] Trådløs Mus
+- [ ] Tastatur, Trådløs Mus
 - [ ] Soekris konsolserver
-- [ ] Beaglebone Black
 - [ ] Parallella plus USB hub
-- [ ] Raspberry Pi
-- [ ] Stikdåser og netkabler - ca. 10-15 styk
-- [ ] Samsung printer
+- [ ] Blandede kasser med rPi Beaglebone Black osv.
 
 ## Diverse
 - [ ] Hovedtelefoner/headset
 - [ ] Batterier til mus m.v.
 - [ ] bøger lidt blandede til mig selv!
+- [ ] Stikdåser og netkabler - ca. 10-15 styk
+- [ ] Samsung printer
 
 ## Personligt
 - [ ] Sovepose
@@ -59,4 +69,3 @@ Ikke alting skal altid med - men kan overvejes, hvis plads og lyst :-D
 - [ ] 3-i-en
 - [ ] tandbørste
 - [ ] Håndklæder
-- [ ] Iai måske

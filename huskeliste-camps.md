@@ -42,6 +42,8 @@ Ikke alting skal altid med - men kan overvejes, hvis plads og lyst :-D
 - [ ] ~~bøger lidt blandede til mig selv!~~
 - [ ] Stikdåser og netkabler - ca. 10-15 styk
 - [ ] Samsung printer
+- [ ] Drikkedunk
+- [ ] Termokop til kaffe
 
 ## Personligt
 - [ ] Sovepose
@@ -52,6 +54,7 @@ Ikke alting skal altid med - men kan overvejes, hvis plads og lyst :-D
 - [ ] Lagen
 - [ ] Hovedpude
 - [ ] Bukser
+- [ ] Afslappede bukser
 - [ ] Shorts
 - [ ] Badetøj
 - [ ] Løbetøj

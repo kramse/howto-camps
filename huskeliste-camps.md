@@ -29,7 +29,7 @@ Ikke alting skal altid med - men kan overvejes, hvis plads og lyst :-D
 - [ ] xpc02, xpc03
 - [ ] Zenbook
 - [ ] Librem
-- [ ] Thunderbolt skærm?
+- [ ] Thunderbolt skærm
 - [ ] Mirai skærm plus mange HDMI kabler
 - [ ] Tastatur, Trådløs Mus
 - [ ] Soekris konsolserver
@@ -39,22 +39,23 @@ Ikke alting skal altid med - men kan overvejes, hvis plads og lyst :-D
 ## Diverse
 - [ ] Hovedtelefoner/headset
 - [ ] Batterier til mus m.v.
-- [ ] bøger lidt blandede til mig selv!
+- [ ] ~~bøger lidt blandede til mig selv!~~
 - [ ] Stikdåser og netkabler - ca. 10-15 styk
 - [ ] Samsung printer
 
 ## Personligt
 - [ ] Sovepose
 - [ ] Linser
+- [ ] Alminox
 - [ ] Lampe/lygte
 - [ ] Selvoppustelig madras
 - [ ] Lagen
 - [ ] Hovedpude
-- [ ] bukser
-- [ ] shorts
+- [ ] Bukser
+- [ ] Shorts
 - [ ] Badetøj
 - [ ] Løbetøj
-- [ ] rene t-shirts
+- [ ] Seje t-shirts
 - [ ] undertøj/strømper
 - [ ] flipflops
 - [ ] sæbe/shampoo, tandpasta, tandbørste
@@ -71,4 +72,4 @@ Ikke alting skal altid med - men kan overvejes, hvis plads og lyst :-D
 - [ ] Håndklæde
 - [ ] Lampe
 - [ ] Bukser og shorts
-- [ ] Rene t-shirts
+- [ ] Seje t-shirts

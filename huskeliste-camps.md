@@ -2,34 +2,50 @@
 
 Ikke alting skal altid med - men kan overvejes, hvis plads og lyst :-D
 
-## Denne gang The Camp 2016
-- [ ] Rom en flaske
-- [ ] Lasere, lys, røgmaskinen
-- [ ] Brocade switches, 3-4 ICX 6430
+## Special Bornhack Camp 2016
+- [ ] Rom
+- [ ] Brocade switches, resten
+- [ ] Test AP
+- [ ] Coleman shelter
+- [ ] Runde campingstol
+
+## Patrick Ting som jeg skal have med
+- [ ] Patrick Telt
+- [ ] Madras, lagen
+- [ ] Sovepose, hovedpude, lagen
+- [ ] Computer, stikdåser, skærm, tastatur, mus
+
+## Dorrit Ting som jeg skal have med
+- [ ] Dorrit madras, lagen
+- [ ] Dorrit pude/dyne
+- [ ] Sovepose, hovedpude, lagen
+- [ ] Computer, Airport+backup HD
+
 
 ## Telte og camping
 - [ ] Campingbord
 - [ ] Campingstole
 - [ ] Lange ledninger, den dårlige kabeltromle/langt strømkabel, noget
-- [ ] The Camp: Store telt inkl store pressenning, reb osv.
-- [ ] The Camp: HLK Telt
+- [ ] HLK Telt
 - [ ] Myggedræberen!
 - [ ] Ketchere til myg/fluer
 
 ## Netværk og infrastruktur
 - [ ] Lange netkabler, 10m
-- [ ] Unifi AP med power m.fl.
+- [ ] AV-cables patch kabler
+- [ ] Danbit armerede fiberkabler
+- [ ] Unifi AP med power m.fl. husk det fra gangen
 - [ ] TP-link switch fra kontoret?
 - [ ] ~~Cisco 24-port 100Mbit switchen~~
 - [ ] Internetkassen med EX2200-C og SRX
 - [ ] Routerkassen med Mikrotik routere, PA-200, Cisco
-- [ ] - måske lange fiberkabler
 
 ## Systemer
 - [ ] xpc02, xpc03
+- [ ] Gammel PC, henne ved brændeovn?
 - [ ] Zenbook
 - [ ] Librem
-- [ ] Thunderbolt skærm
+- [ ] Stor skærm
 - [ ] Mirai skærm plus mange HDMI kabler
 - [ ] Tastatur, Trådløs Mus
 - [ ] Soekris konsolserver

@@ -1,2 +1,3 @@
 # huskeliste-camps
-Huskeliste til camps
+
+Camp checklist

@@ -1,4 +1,4 @@
-# BornHack 2017 Checklist
+# SHA 2017 Checklist
 
 HLK list of things to bring to camps. Hopefully made it generic so you can use it for inspiration.
 
@@ -33,7 +33,6 @@ Also these tings are used by more people in the village
 - [ ] Parallella plus USB hub
 - [ ] Box with Raspberry Pi, Beaglebone Black osv.
 
-
 ## Tent and camping
 - [ ] Camping table
 - [ ] Camping chairs Goya
@@ -67,7 +66,3 @@ Also these tings are used by more people in the village
 - [ ] soap/shampoo
 - [ ] tooth brush and paste
 - [ ] Towel, always know where it is!
-
-### Very Optional
-- [ ] Running shoes?
-- [ ] Books

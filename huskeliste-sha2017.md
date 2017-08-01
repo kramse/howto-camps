@@ -4,30 +4,17 @@ HLK list of things to bring to camps. Hopefully made it generic so you can use i
 
 BTW Dont bring everything, but things to consider. Books are optional for instance.
 
-## Special BornHack 2017
-HLK NOC stuff
-- [ ] Apply for temp resources IPv4, IPv6 and ASN from RIPE NCC
-- [ ] Danbit armored fiber cables
-- [ ] Core switches
-- [ ] Core routers will be SRX - probably in stateless mode
-- [ ] SFPs, thank you flexoptics!
-- [ ] Unifi AP and power
-- [ ] AV-cables patch kabler
+## Special SHA 2017
 - [ ] Extension cords for my network stuff
-- [ ] Electrical tools, screwdriver with voltage tester
-- [ ] Wire stripper
 - [ ] IPv6 enabled cable with built-in firewall
 
 ## Village Infrastructure and Network stuff for fun
 Play around with tech is what I do, what is your hobby?
-- [ ] Test AP
 - [ ] A few Long network cables 10m
-- [ ] The internet box with EX3300 and SRX, bringing a small router is great!
 - [ ] Extra EX2200-C
 - [ ] Table switches, smaller passively cooled ones!
 - [ ] Misc extensions and patch cables 10-15 pieces
-- [ ] Soekris console server
-- [ ] Samsung printer?
+- [ ] Soekris console server, acting as router too
 - [ ] Toolbox with Ethernet crimping, label writer etc.
 - [ ] Music equipment
 - [ ] Fun LED lighting, everybody loves blinkenlights
@@ -36,8 +23,8 @@ Play around with tech is what I do, what is your hobby?
 Also these tings are used by more people in the village
 
 ## Systemer
-- [ ] Primary laptop personal Librem
-- [ ] Extra laptop work
+- [ ] Primary laptop Librem
+- [ ] Extra laptop work laptop
 - [ ] Monitor?
 - [ ] Keyboard, Mouse - and mouse pad
 - [ ] If you need them, have them, Trackballs, Joystick ...

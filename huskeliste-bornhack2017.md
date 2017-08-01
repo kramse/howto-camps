@@ -21,11 +21,11 @@ HLK NOC stuff
 ## Village Infrastructure and Network stuff for fun
 Play around with tech is what I do, what is your hobby?
 - [ ] ~~Test AP~~ nope, never - dont bring wireless equipment to camps which provide some wireless! Read https://wiki.emfcamp.org/wiki/Network/Rogue_Access_Points
+- [ ] One very loong ethernet cable to connect to camp network
 - [ ] A few Long network cables 10m
 - [ ] The internet box with EX3300 and SRX, bringing a small router is great!
-- [ ] Extra EX2200-C
-- [ ] Table switches, smaller passively cooled ones!
-- [ ] Misc extensions and patch cables 10-15 pieces
+- [ ] Extra switches like EX2200-C, Table switches, smaller passively cooled ones are best!
+- [ ] Misc extensions and patch cables 10-15 pieces, or how many you are
 - [ ] Soekris console server
 - [ ] Samsung printer?
 - [ ] Toolbox with Ethernet crimping, label writer etc.

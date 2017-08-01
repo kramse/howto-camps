@@ -2,53 +2,38 @@
 
 Ikke alting skal altid med - men kan overvejes, hvis plads og lyst :-D
 
-## Special Bornhack Camp 2016
-- [ ] Rom
-- [ ] Brocade switches, resten
-- [ ] Test AP
-- [ ] Coleman shelter
+## Special The Camp 2017
+- [ ] Rom plus rester
 - [ ] Runde campingstol
-
-## Patrick Ting som jeg skal have med
-- [ ] Patrick Telt
-- [ ] Madras, lagen
-- [ ] Sovepose, hovedpude, lagen
-- [ ] Computer, stikdåser, skærm, tastatur, mus
-
-## Dorrit Ting som jeg skal have med
-- [ ] Dorrit madras, lagen
-- [ ] Dorrit pude/dyne
-- [ ] Sovepose, hovedpude, lagen
-- [ ] Computer, Airport+backup HD
-
 
 ## Telte og camping
 - [ ] Campingbord
 - [ ] Campingstole
 - [ ] Lange ledninger, den dårlige kabeltromle/langt strømkabel, noget
 - [ ] HLK Telt
+- [ ] Coleman shelter
 - [ ] Myggedræberen!
 - [ ] Ketchere til myg/fluer
 
 ## Netværk og infrastruktur
+- [ ] Test APer
 - [ ] Lange netkabler, 10m
 - [ ] AV-cables patch kabler
-- [ ] Danbit armerede fiberkabler
-- [ ] Unifi AP med power m.fl. husk det fra gangen
-- [ ] TP-link switch fra kontoret?
-- [ ] ~~Cisco 24-port 100Mbit switchen~~
+- [ ] TP-link switch fra kontoret, nej
+- [ ] TP-Link switche, små 8-port og PoE udgaven
 - [ ] Internetkassen med EX2200-C og SRX
-- [ ] Routerkassen med Mikrotik routere, PA-200, Cisco
+- [ ] Extra EX2200-C
+- [ ] Stikdåser og netkabler - ca. 10-15 styk
+- [ ] Samsung printer
 
 ## Systemer
-- [ ] xpc02, xpc03
-- [ ] Gammel PC, henne ved brændeovn?
+- [ ] xpc02, xpc03 - måske
 - [ ] Zenbook
 - [ ] Librem
 - [ ] Stor skærm
-- [ ] Mirai skærm plus mange HDMI kabler
 - [ ] Tastatur, Trådløs Mus
 - [ ] Soekris konsolserver
+### Måske
 - [ ] Parallella plus USB hub
 - [ ] Blandede kasser med rPi Beaglebone Black osv.
 
@@ -56,8 +41,6 @@ Ikke alting skal altid med - men kan overvejes, hvis plads og lyst :-D
 - [ ] Hovedtelefoner/headset
 - [ ] Batterier til mus m.v.
 - [ ] ~~bøger lidt blandede til mig selv!~~
-- [ ] Stikdåser og netkabler - ca. 10-15 styk
-- [ ] Samsung printer
 - [ ] Drikkedunk
 - [ ] Termokop til kaffe
 
@@ -73,14 +56,15 @@ Ikke alting skal altid med - men kan overvejes, hvis plads og lyst :-D
 - [ ] Afslappede bukser
 - [ ] Shorts
 - [ ] Badetøj
-- [ ] Løbetøj
 - [ ] Seje t-shirts
 - [ ] undertøj/strømper
 - [ ] flipflops
-- [ ] sæbe/shampoo, tandpasta, tandbørste
+- [ ] sæbe/shampoo
+- [ ] tandbørste og tandpaste
+- [ ] Håndklæde
+### Måske
+- [ ] Løbetøj og sko, måske
 - [ ] 3-i-en
-- [ ] tandbørste
-- [ ] Håndklæder
 
 ## Patrick
 - [ ] Telt
@@ -90,5 +74,6 @@ Ikke alting skal altid med - men kan overvejes, hvis plads og lyst :-D
 - [ ] Tandbørste
 - [ ] Håndklæde
 - [ ] Lampe
+- [ ] Undertøj
 - [ ] Bukser og shorts
 - [ ] Seje t-shirts

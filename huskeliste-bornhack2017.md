@@ -6,9 +6,17 @@ BTW Dont bring everything, but things to consider. Books are optional for instan
 
 ## Special BornHack 2017
 HLK NOC stuff
+- [ ] Apply for temp resources IPv4, IPv6 and ASN from RIPE NCC
 - [ ] Danbit armored fiber cables
+- [ ] Core switches
+- [ ] Core routers will be SRX - probably in stateless mode
+- [ ] SFPs, thank you flexoptics!
 - [ ] Unifi AP and power
 - [ ] AV-cables patch kabler
+- [ ] Extension cords for my network stuff
+- [ ] Electrical tools, screwdriver with voltage tester
+- [ ] Wire stripper
+- [ ] IPv6 enabled cable with built-in firewall
 
 ## Village Infrastructure and Network stuff for fun
 Play around with tech is what I do, what is your hobby?
@@ -76,6 +84,3 @@ Also these tings are used by more people in the village
 ### Very Optional
 - [ ] Running shoes?
 - [ ] Books
-- [ ]
-- [ ]
-- [ ]

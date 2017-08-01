@@ -20,7 +20,7 @@ HLK NOC stuff
 
 ## Village Infrastructure and Network stuff for fun
 Play around with tech is what I do, what is your hobby?
-- [ ] Test AP
+- [ ] -Test AP- nope - dont bring wireless equipment to camps!
 - [ ] A few Long network cables 10m
 - [ ] The internet box with EX3300 and SRX, bringing a small router is great!
 - [ ] Extra EX2200-C
@@ -57,13 +57,11 @@ Also these tings are used by more people in the village
 - [ ] Mosquito killer!
 - [ ] Handheld electric killer for bugs
 
-## Misc
+## Personal
 - [ ] Headphones
 - [ ] Batteries for mouse
 - [ ] Water bottle
 - [ ] Termo cup for tea and coffee
-
-## Personal
 - [ ] Contact lenses, glasses
 - [ ] Alminox
 - [ ] Light or lamps

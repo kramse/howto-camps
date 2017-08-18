@@ -10,6 +10,7 @@ BTW Dont bring everything, but things to consider. Books are optional for instan
 
 ## Village Infrastructure and Network stuff for fun
 Play around with tech is what I do, what is your hobby?
+
 - [ ] A few Long network cables 10m
 - [ ] Extra EX2200-C
 - [ ] Table switches, smaller passively cooled ones!

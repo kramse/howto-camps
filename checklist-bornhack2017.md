@@ -12,7 +12,7 @@ HLK NOC stuff
 - [ ] Core routers will be SRX - probably in stateless mode
 - [ ] SFPs, thank you flexoptics!
 - [ ] Unifi AP and power
-- [ ] AV-cables patch kabler
+- [ ] AV-cables patch kabler, already at BornHack
 - [ ] Extension cords for my network stuff
 - [ ] Electrical tools, screwdriver with voltage tester
 - [ ] Wire stripper

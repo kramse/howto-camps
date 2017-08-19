@@ -39,6 +39,7 @@ Not everything is needed, but if you have space and want to have the most fun. B
 - [ ] Sleeping bag, you might not use it much though
 - [ ] Contact lenses
 - [ ] Medicine, prescription ones of course, but also if you get stomach acid easily
+- [ ] Sun screen protection, SPF +20 for nerds :-)
 - [ ] Light and lamps, headlamp makes build-up and teardown in dark easier!
 - [ ] Matress, dont buy the cheap crappy ones, self-inflating mats work for me
 - [ ] Bedsheet

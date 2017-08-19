@@ -34,6 +34,7 @@ Not everything is needed, but if you have space and want to have the most fun. B
 - [ ] Batteries for mouse, headset, etc.
 - [ ] Books
 - [ ] Mixed small systems like Raspberry Pi, Beaglebone, Parallella
+- [ ] Electronic equipment, soldering iron, badge hacking etc.
 
 ## Personal
 - [ ] Sleeping bag, you might not use it much though

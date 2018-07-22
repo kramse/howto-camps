@@ -68,6 +68,8 @@ Bring power strips, yes - lots and lots. We buy ones with 10 plugs, and fill the
 
 Pro tip: put your name on the power strips you bring, then you can make even more friends by letting a neighbor hacker village use one, until they find time to go to shops and buy one.
 
+Bring lighting, both for fun - but certainly also to be able to see. We use big white led light enclosures rated for outside use.
+
 # Bring network infrastructure
 
 Bring a loooooong Ethernet cable. I have bought a couple of 30m cables and they can be found pretty cheap.
@@ -112,7 +114,7 @@ While marking off a path may seem excessive and land grabbing, but let me try to
 
 ... or you can just allow chaos to reign, that is fine too of course :-)
 
-Next step if the infrastructure, do this before you put up furniture. Pull the power cables, plan where to put the power strips. Do a tree-like structure will make it easier WHEN you re-route power, which will happen.
+Next step is the infrastructure, do this before you put up furniture. Pull the power cables, plan where to put the power strips. Do a tree-like structure will make it easier WHEN you re-route power, which will happen.
 
 Pro tip: put lights on a few strips, or better on a single power strip with a switch, so the last person going to bed can flip a single switch.
 

@@ -120,6 +120,10 @@ Pro tip: put lights on a few strips, or better on a single power strip with a sw
 
 Pro tip: write your name on strips, we often have a pile of power strips and take the one which suits the use best. Then at the end of camp, we can sort them and everyone takes their own back home.
 
+In general take care with power, putting powerstrips on the ground is usually bad so hang them from tent etc. We have found that putting cables high and letting them drop down on the middle of the tables is a good way to cable stuff.
+
+Same with Ethernet cables, put them high and let them drop down where needed.
+
 # Teardown
 
 Not much here yet, just dont be a dick, dont leave a mess.

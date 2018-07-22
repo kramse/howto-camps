@@ -29,6 +29,7 @@ Camps usually also have info pages, checkout the one from SHA2017 https://wiki.s
 
 This part is about what we bring. Making a village often needs at least one car for transporting stuff. We easily fill up a small van for a 10-15 person camp.
 
+Dont forget to bring thrash bags!
 
 ## Which tents to bring
 
@@ -105,6 +106,8 @@ Yay, you have arrived and are ready to build the best village!
 First, bring in all your stuff, put it in a pile, but you can make life easier if you sort it a bit, so keep camping stuff like tents on the outside, so you can put them up without having to dig deep into the pile.
 
 Then start building the village from the center, hacking tent first, then make a quick plan for the living tents.
+
+First things first, start a thrash bag and a place to put empty cans/bottles.
 
 Pro tip: make sure to have an entrance, and if you have some marking/warning tape like "police line" it can be a good way to avoid a maze to get in and out of your village.
 

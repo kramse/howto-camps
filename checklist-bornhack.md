@@ -6,7 +6,6 @@ BTW Dont bring everything, but things to consider. Books are optional for instan
 
 ## Special BornHack 2017
 HLK NOC stuff
-- [ ] Apply for temp resources IPv4, IPv6 and ASN from RIPE NCC
 - [ ] Danbit armored fiber cables
 - [ ] Core switches
 - [ ] Core routers will be SRX - probably in stateless mode

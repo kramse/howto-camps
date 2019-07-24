@@ -44,6 +44,7 @@ Play around with tech is what I do, what is your hobby?
 - [ ] Music equipment
 - [ ] Fun LED lighting, everybody loves blinkenlights
 - [ ] Additional extensions for blinkenlights
+- [ ] Whiteboard 
 
 Also these tings are used by more people in the village
 

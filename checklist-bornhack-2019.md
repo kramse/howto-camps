@@ -79,6 +79,7 @@ Having a nice place to work and sleep is the goal. Make it fun to sit there.
 - [ ] Contact lenses, glasses etc.
 - [ ] Medicine, prescription ones of course, but also if you get stomach acid easily Alminox
 - [ ] Sun screen protection, SPF +20 for nerds :-)
+- [ ] Sun glasses or a hat perhaps
 - [ ] Light and lamps, headlamp makes build-up and teardown in dark easier!
 - [ ] Matress, dont buy the cheap crappy ones, self-inflating mats work for me
 - [ ] Water bottle

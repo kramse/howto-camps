@@ -1,5 +1,7 @@
 # BornHack 2017 Checklist
 
+Archived, new one is the generic one without year in the name.
+
 HLK list of things to bring to camps. Hopefully made it generic so you can use it for inspiration.
 
 BTW Dont bring everything, but things to consider. Books are optional for instance.

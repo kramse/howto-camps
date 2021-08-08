@@ -15,7 +15,7 @@ Cases that stack are precious.
 - [ ] Plastic one from TheCamp, Misc
 - [ ] Large plastic one, camp stuff and aeropress, kitchen stuff
 - [ ] Thomann 4Ux2
-- [ ] The internet box with Arista 7150, EX3300 and SRX
+- [ ] The internet box with EX2200C, EX3300 and some SRX
 
 ## Special BornHack
 
@@ -23,15 +23,16 @@ Cases that stack are precious.
 - [ ] SFPs,
 - [ ] Extension cords for my network stuff
 - [ ] Electrical tools, screwdriver with voltage tester
-- [ ] Wire stripper
+- [ ] Wire stripper and electronics
 - [ ] IPv6 enabled cable with built-in firewall
-- [ ] Soekris console server
+- [ ] Soekris console server?
+- [ ] Radios Boafeng x2
 
 ## Village Infrastructure and Network stuff for fun
 
 Play around with tech is what I do, what is your hobby?
 
-- [ ] One very loong ethernet cable to connect to camp network
+- [ ] One very long ethernet cable to connect to camp network
 - [ ] A few Long network cables 10m
 - [ ] Extra switches like EX2200-C, Table switches, smaller passively cooled ones are best!
 - [ ] Misc extensions and patch cables 10-15 pieces, or how many you are
@@ -47,7 +48,7 @@ Play around with tech is what I do, what is your hobby?
 ## Servers and common stuff
 - [ ] Samsung printer
 - [ ] Server for 10G stuff
-- [ ] Small server for Elasticsearch stuff
+- [ ] Small server for other stuff, update Beaglebones with latest OpenBSD
 
 Also these things are used by more people in the village. Also ordered tables from BornHack and some more chairs.
 
@@ -67,31 +68,29 @@ Having a nice place to work and sleep is the goal. Make it fun to sit there.
 ## My Computers and extras
 
 - [ ] Thomann flightcase 5
-- [ ] Primary laptop personal Librem
+- [ ] Primary laptop personal
+- [ ] Workstation, Alice?
 - [ ] Monitor plus cables, minijack, HDMI, power
 - [ ] Keyboard, Mouse - and mouse pad
 - [ ] Headphones/headset
 - [ ] Extra laptops, Asus and Librem
 - [ ] Small form factor PCs, like APU2C4, Raspberry Pi, Beaglebone Black osv.
-- [ ] Batteries for mouse, headset, etc.
+- [ ] Batteries for things, mouse, headset, etc.
 - [ ] Books
 - [ ] Electronic equipment, soldering iron, badge hacking etc.
-- [ ] Batteries for things
 
 ## Personal
 
 - [ ] Water bottle!
 - [ ] Thermos cup for tea and coffee
-
 - [ ] Contact lenses, glasses etc.
 - [ ] Medicine, prescription ones of course, but also if you get stomach acid easily Alminox
 - [ ] Sun screen protection, SPF +20 for nerds :-)
 - [ ] Sun glasses or a hat perhaps
-- [ ] Light and lamps, headlamp makes build-up and teardown in dark easier!
+- [ ] Light and lamps, headlamp makes build-up and tear down in dark easier!
 - [ ] Mattress, don't buy the cheap crappy ones, self-inflating mats work for me over +5 years
 - [ ] Sleeping bag
 - [ ] Bed sheet
-- [ ] Sleeping bag
 - [ ] Pillow
 - [ ] Hoodies, to keep you warm at night
 - [ ] Trousers, skirts, whatever keeps you warm

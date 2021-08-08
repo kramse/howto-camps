@@ -13,3 +13,6 @@ There are also a couple of examples of "real checklists" I have used, and since
 for instance BornHack repeats every year, I re-use and expand that one.
 
 So have fun, and let me know if you think something should be added.
+
+If you ARE going to a camp where I am, you are welcome to come borrow tools etc.
+- so check in with me, I usually have soldering iron and stuff like that.

@@ -81,6 +81,8 @@ Bring a sturdy metal case Ethernet switch with enough ports. I prefer metal case
 
 Fact, your cable will lie on the ground for a week, so it might break - this is a fact, and usually not someone deliberately breaing it.
 
+- [ ] ~~Test Access Point~~ nope, never - dont bring wireless equipment to camps which provide some wireless! Read https://wiki.emfcamp.org/wiki/Network/Rogue_Access_Points
+
 # Bring furniture and camping equipment
 
 You need to relax, so make sure you have a nice comfy setup by bringing furniture, carpets are also a good way to relax.

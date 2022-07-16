@@ -8,6 +8,7 @@ Might be arriving late, shops closed
 
 ## Common Infrastructure
 - [ ] Power box red "byggeplads tavle"
+- [ ] Power boxes outdoor waterproof
 - [ ] Long extension cords 25m and rolls, multiple
 - [ ] Misc power extensions 10 plug
 - [ ] 2x Toolboxes with Ethernet crimping, label writer etc.
@@ -35,7 +36,7 @@ Might be arriving late, shops closed
 - [ ] Primary laptop Razer
 - [ ] Extra laptop Asus
 - [ ] Monitor Samsung
-- [ ] Keyboard, Mouse - and mouse pad-
+- [ ] Keyboard, Mouse - and mouse pad
 - [ ] Silver boxes 1,2,3 multiple sizes??
 - [ ] Mixed drawer flightcase 5
 

@@ -1,12 +1,15 @@
 # MCH 2022 Checklist
 
 ## Travel
+
 Might be arriving late, shops closed
+
 - [ ] Sodas and Beer
 - [ ] Initial food, some bread and cheese
 - [ ] Radios Boafeng x2
 
 ## Common Infrastructure
+
 - [ ] Power box red "byggeplads tavle"
 - [ ] Power boxes outdoor waterproof
 - [ ] Long extension cords 25m and rolls, multiple
@@ -28,6 +31,7 @@ Might be arriving late, shops closed
 Also these things are used by more people in the village. Also ordered tables from BornHack and some more chairs.
 
 ## Network
+
 - [ ] A few Long network cables 30-50m to connect to camp network
 - [ ] A few Long network cables 10m
 - [ ] Juniper EX2200-C
@@ -59,7 +63,6 @@ Hack tent/pavillion, I use Coleman Event Shelter with UV protection!
 - [ ] Long extension cords 25m
 - [ ] Small blanket for feet
 
-
 ## My Computers and extras
 
 - [ ] Primary laptop Razer
@@ -78,6 +81,7 @@ Hack tent/pavillion, I use Coleman Event Shelter with UV protection!
 - [ ] Silver boxes 1,2,3 multiple sizes??
 
 ## Tent and Sleeping
+
 - [ ] Sleeping tent
 - [ ] Coleman event shelter small
 - [ ] Tarp
@@ -89,12 +93,14 @@ Hack tent/pavillion, I use Coleman Event Shelter with UV protection!
 - [ ] Light and lamps, headlamp makes build-up and tear down in dark easier!
 
 ## Misc
+
 - [ ] Headphones
 - [ ] Water bottle
 - [ ] Termo cup for tea and coffee
 - [ ] Water heater
 
 ## Personal
+
 - [ ] Contact lenses, glasses
 - [ ] Medicine, prescription ones of course, but also if you get stomach acid easily Alminox
 - [ ] Sun screen protection, SPF +20 for nerds :-)

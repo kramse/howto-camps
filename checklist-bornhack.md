@@ -1,75 +1,72 @@
 # BornHack Checklist
 
+## Travel
 Might be arriving late, shops closed
 - [ ] Sodas and Beer
 - [ ] Initial food, some bread and cheese
-
-## Cases
-
-Cases that stack are precious.
-
-- [ ] Toolbox - landscape mode one
-- [ ] Toolbox - portrait mode one
-- [ ] Toolbox contain generic tools, pliers, Ethernet crimping, label writer etc.
-- [ ] Silver boxes 1,2,3 multiple sizes
-- [ ] Plastic one from TheCamp, Misc
-- [ ] Large plastic one, camp stuff and aeropress, kitchen stuff
-- [ ] Thomann 4Ux2
-- [ ] The internet box with EX2200C, EX3300 and some SRX
-
-## Special BornHack
-
-- [ ] Armored fiber cables
-- [ ] SFPs,
-- [ ] Extension cords for my network stuff
-- [ ] Electrical tools, screwdriver with voltage tester
-- [ ] Wire stripper and electronics
-- [ ] IPv6 enabled cable with built-in firewall
-- [ ] Soekris console server?
 - [ ] Radios Boafeng x2
 
-## Village Infrastructure and Network stuff for fun
-
-Play around with tech is what I do, what is your hobby?
-
-- [ ] One very long ethernet cable to connect to camp network
-- [ ] A few Long network cables 10m
-- [ ] Extra switches like EX2200-C, Table switches, smaller passively cooled ones are best!
-- [ ] Misc extensions and patch cables 10-15 pieces, or how many you are
-- [ ] Music equipment speaker and chromecast audio
-- [ ] Fun LED lighting, everybody loves blinkenlights
-- [ ] Additional extensions for blinkenlights
+## Common Infrastructure
+- [ ] Power box red "byggeplads tavle"
+- [ ] Power boxes outdoor waterproof
+- [ ] Long extension cords 25m and rolls, multiple
 - [ ] Power cables as needed
 - [ ] Long extension cords cable rolls
-- [ ] Whiteboard
-- [ ] Mosquito killer!
-- [ ] Sun chairs
-
-## Servers and common stuff
+- [ ] Misc power strips 10 plug
+- [ ] Toolboxes contain generic tools, pliers, Ethernet crimping, label writer etc.
+- [ ] Reusable Strips
+- [ ] Water tank
+- [ ] Large plastic one, camp stuff and aeropress, kitchen stuff
+- [ ] Small whiteboard and pens
+- [ ] Long LED lights
 - [ ] Samsung printer
-- [ ] Server for 10G stuff
-- [ ] Small server for other stuff, update Beaglebones with latest OpenBSD
+- [ ] Server for 10G stuff?
+- [ ] Small server for other stuff
+- [ ] Mosquito killer!
+- [ ] Sun chairs?
 
 Also these things are used by more people in the village. Also ordered tables from BornHack and some more chairs.
 
-## Tent and camping
+## Network
+- [ ] A few Long network cables 30-50m to connect to camp network
+- [ ] A few Long network cables 10m
+- [ ] Juniper EX2200-C
+- [ ] Extra switches like table switches, smaller passively cooled ones are best!
+- [ ] Misc extensions and patch cables 10-15 pieces, or how many you are
+- [ ] The internet box with EX2200C, EX3300 and some SRX
+- [ ] APU2 router
+- [ ] Table switches, smaller passively cooled ones!
+- [ ] Ethernet patch cables 10-15 pieces
+- [ ] Armored fiber cables
+- [ ] SFPs
 
-Having a nice place to work and sleep is the goal. Make it fun to sit there.
 
-- [ ] Hack tent/pavillion, I use Coleman Event Shelter with UV protection!
-- [ ] Sleeping tent
+## Camp and work space Infrastructure
+
+Having a nice place to work is the goal. Make it fun to sit there.
+Hack tent/pavillion, I use Coleman Event Shelter with UV protection!
+
+- [ ] Coleman event shelter large
+- [ ] Ecoflow battery and solar panel
+- [ ] Cooler
+- [ ] Music equipment speaker and Tablet A6
+- [ ] Fun LED lighting, everybody loves blinkenlights
+- [ ] Additional extensions for blinkenlights
+- [ ] Mixed drawer flightcase 5
+- [ ] Light and lamps, headlamp makes build-up and tear down in dark easier!
 - [ ] Camping table
-- [ ] Camping chairs, bring extra for guests
-- [ ] Cooler, but dont expect it to be a real fridge
-- [ ] Water bag and bottles! DO bring this.
-- [ ] Bring some tools, a multi-tool if you are alone, more if building a village
+- [ ] Camping chairs Goya
+- [ ] Camping chair round
+- [ ] Long extension cords 25m
+- [ ] Small blanket for feet
 
 
 ## My Computers and extras
 
-- [ ] Thomann flightcase 5
-- [ ] Primary laptop personal
-- [ ] Workstation, Alice?
+- [ ] Primary laptop Razer
+- [ ] Extra laptop Asus
+- [ ] Keyboard, Mouse - and mouse pad
+- [ ] Workstations? Alice and Bob?
 - [ ] Monitor plus cables, minijack, HDMI, power
 - [ ] Keyboard, Mouse - and mouse pad
 - [ ] Headphones/headset
@@ -78,28 +75,39 @@ Having a nice place to work and sleep is the goal. Make it fun to sit there.
 - [ ] Batteries for things, mouse, headset, etc.
 - [ ] Books
 - [ ] Electronic equipment, soldering iron, badge hacking etc.
+- [ ] Thomann flightcase 5
+- [ ] Silver boxes 1,2,3 multiple sizes??
+
+## Tent and Sleeping
+- [ ] Sleeping tent
+- [ ] Coleman event shelter small
+- [ ] Tarp
+- [ ] Long extension cord and power strips
+- [ ] Mattress, don't buy the cheap crappy ones, self-inflating mats work for me over +5 years
+- [ ] Bed sheet
+- [ ] Sleeping bag
+- [ ] Pillow
+- [ ] Light and lamps, headlamp makes build-up and tear down in dark easier!
+
+## Misc
+- [ ] Headphones
+- [ ] Water bottle
+- [ ] Termo cup for tea and coffee
+- [ ] Water heater
 
 ## Personal
-
-- [ ] Water bottle!
-- [ ] Thermos cup for tea and coffee
-- [ ] Contact lenses, glasses etc.
+- [ ] Contact lenses, glasses
 - [ ] Medicine, prescription ones of course, but also if you get stomach acid easily Alminox
 - [ ] Sun screen protection, SPF +20 for nerds :-)
 - [ ] Sun glasses or a hat perhaps
-- [ ] Light and lamps, headlamp makes build-up and tear down in dark easier!
-- [ ] Mattress, don't buy the cheap crappy ones, self-inflating mats work for me over +5 years
-- [ ] Sleeping bag
-- [ ] Bed sheet
-- [ ] Pillow
-- [ ] Hoodies, to keep you warm at night
-- [ ] Trousers, skirts, whatever keeps you warm
+- [ ] Trousers
 - [ ] Relaxed clothing
 - [ ] Shorts
-- [ ] Bathing suit/shorts?
+- [ ] Bathing shorts?
 - [ ] Cool t-shirts
+- [ ] Hoodies, to keep you warm at night
 - [ ] Underwear and socks
-- [ ] Shoes, Sandals or flip-flops, recommend something that can get wet and dry quickly
+- [ ] Sandals
 - [ ] Soap/shampoo
 - [ ] Tooth brush and paste
 - [ ] Towel, always know where it is!

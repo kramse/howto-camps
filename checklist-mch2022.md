@@ -1,4 +1,14 @@
-# MCH 2022 Checklist
+---
+mainfont: DejaVuSerif.ttf
+sansfont: DejaVuSans.ttf
+monofont: DejaVuSansMono.ttf
+mathfont: texgyredejavu-math.otf
+papersize: a4
+title: "MCH 2022 Checklist"
+author: [Henrik Kramselund hlk@kramse.org]
+date: "2022-07-17"
+keywords: [camps]
+---
 
 ## Travel
 

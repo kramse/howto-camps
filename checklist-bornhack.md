@@ -1,4 +1,14 @@
-# BornHack Checklist
+---
+mainfont: DejaVuSerif.ttf
+sansfont: DejaVuSans.ttf
+monofont: DejaVuSansMono.ttf
+mathfont: texgyredejavu-math.otf
+papersize: a4
+title: "BornHack 2022 Checklist"
+author: [Henrik Kramselund hlk@kramse.org]
+date: "2022-07-17"
+keywords: [camps]
+---
 
 ## Travel
 
@@ -10,13 +20,16 @@ Might be arriving late, shops closed
 
 ## Common Infrastructure
 
+- [ ] Working gloves
 - [ ] Power box red "byggeplads tavle"
 - [ ] Power boxes outdoor waterproof
 - [ ] Long extension cords 25m and rolls, multiple
 - [ ] Power cables as needed
+- [ ] DC Power cables as needed -- y splitter
 - [ ] Long extension cords cable rolls
 - [ ] Misc power strips 10 plug
 - [ ] Toolboxes contain generic tools, pliers, Ethernet crimping, label writer etc.
+- [ ] Svensk nøgle
 - [ ] Reusable Strips
 - [ ] Water tank
 - [ ] Large plastic one, camp stuff and aeropress, kitchen stuff
@@ -36,6 +49,7 @@ Also these things are used by more people in the village. Also ordered tables fr
 - [ ] A few Long network cables 10m
 - [ ] Juniper EX2200-C
 - [ ] Extra switches like table switches, smaller passively cooled ones are best!
+- [ ] PoE switches and PoE PD switches
 - [ ] Misc extensions and patch cables 10-15 pieces, or how many you are
 - [ ] The internet box with EX2200C, EX3300 and some SRX
 - [ ] APU2 router
@@ -52,25 +66,26 @@ Hack tent/pavillion, I use Coleman Event Shelter with UV protection!
 - [ ] Coleman event shelter large
 - [ ] Ecoflow battery and solar panel
 - [ ] Cooler
-- [ ] Music equipment speaker and Tablet A6
-- [ ] Fun LED lighting, everybody loves blinkenlights
-- [ ] Additional extensions for blinkenlights
-- [ ] Mixed drawer flightcase 5
-- [ ] Light and lamps, headlamp makes build-up and tear down in dark easier!
 - [ ] Camping table
 - [ ] Camping chairs Goya
 - [ ] Camping chair round
 - [ ] Long extension cords 25m
 - [ ] Small blanket for feet
+- [ ] Music equipment speaker and Tablet A6
+- [ ] Fun LED lighting, everybody loves blinkenlights
+- [ ] Additional extensions for blinkenlights
+- [ ] Mixed drawer flightcase 5
+- [ ] Light and lamps
+- [ ] Decoration -- pinde til samurai
 
 ## My Computers and extras
 
 - [ ] Primary laptop Razer
 - [ ] Extra laptop Asus
 - [ ] Keyboard, Mouse - and mouse pad
+- [ ] Receiver for wireless mouse
 - [ ] Workstations? Alice and Bob?
 - [ ] Monitor plus cables, minijack, HDMI, power
-- [ ] Keyboard, Mouse - and mouse pad
 - [ ] Headphones/headset
 - [ ] Extra laptops, Asus and Librem
 - [ ] Small form factor PCs, like APU2C4, Raspberry Pi, Beaglebone Black osv.
@@ -90,7 +105,7 @@ Hack tent/pavillion, I use Coleman Event Shelter with UV protection!
 - [ ] Bed sheet
 - [ ] Sleeping bag
 - [ ] Pillow
-- [ ] Light and lamps, headlamp makes build-up and tear down in dark easier!
+- [ ] Headlamp makes build-up and tear down in dark easier!
 
 ## Misc
 
@@ -114,5 +129,6 @@ Hack tent/pavillion, I use Coleman Event Shelter with UV protection!
 - [ ] Underwear and socks
 - [ ] Sandals
 - [ ] Soap/shampoo
+- [ ] Cotton buds
 - [ ] Tooth brush and paste
 - [ ] Towel, always know where it is!

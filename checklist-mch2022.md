@@ -66,7 +66,7 @@ Hack tent/pavillion, I use Coleman Event Shelter with UV protection!
 - [ ] Fun LED lighting, everybody loves blinkenlights
 - [ ] Additional extensions for blinkenlights
 - [ ] Mixed drawer flightcase 5
-- [ ] Light and lamps, headlamp makes build-up and tear down in dark easier!
+- [ ] Light and lamps
 - [ ] Camping table
 - [ ] Camping chairs Goya
 - [ ] Camping chair round
@@ -80,7 +80,6 @@ Hack tent/pavillion, I use Coleman Event Shelter with UV protection!
 - [ ] Keyboard, Mouse - and mouse pad
 - [ ] Workstations? Alice and Bob?
 - [ ] Monitor plus cables, minijack, HDMI, power
-- [ ] Keyboard, Mouse - and mouse pad
 - [ ] Headphones/headset
 - [ ] Extra laptops, Asus and Librem
 - [ ] Small form factor PCs, like APU2C4, Raspberry Pi, Beaglebone Black osv.
@@ -100,7 +99,7 @@ Hack tent/pavillion, I use Coleman Event Shelter with UV protection!
 - [ ] Bed sheet
 - [ ] Sleeping bag
 - [ ] Pillow
-- [ ] Light and lamps, headlamp makes build-up and tear down in dark easier!
+- [ ] Headlamp makes build-up and tear down in dark easier!
 
 ## Misc
 

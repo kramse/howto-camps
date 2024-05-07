@@ -4,9 +4,9 @@ sansfont: DejaVuSans.ttf
 monofont: DejaVuSansMono.ttf
 mathfont: texgyredejavu-math.otf
 papersize: a4
-title: "BornHack 2023 Checklist"
+title: "BornHack 2024 Checklist"
 author: [Henrik Kramselund hlk@kramse.org]
-date: "2022-07-17"
+date: "2024-07-17"
 keywords: [camps]
 ---
 

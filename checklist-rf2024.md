@@ -57,7 +57,7 @@ Kitchen
 - [ ] Camping chairs Goya
 - [ ] Small blanket for feet
 - [ ] Sun chairs?
-- [ ] Music equipment speaker
+- [ ] Music equipment speaker XB30
 
 ## My Computers and extras
 
@@ -83,11 +83,13 @@ Clothes
 - [ ] Relaxed clothing, blue 3/4 trousers
 - [ ] Sun glasses
 - [ ] Cap
+- [ ] Small bag for carrying stuff around
 
 Shoes
 - [ ] Sandals
 - [ ] New Saguaro
 - [ ] Sneakers multiple
+- [ ] Fellraiser red
 
 Body
 - [ ] Ear protection!

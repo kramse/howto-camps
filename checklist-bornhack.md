@@ -4,7 +4,7 @@ sansfont: DejaVuSans.ttf
 monofont: DejaVuSansMono.ttf
 mathfont: texgyredejavu-math.otf
 papersize: a4
-title: "BornHack 2024 Checklist"
+title: "Checklist BornHack 2024 "
 author: [Henrik Kramselund hlk@kramse.org]
 date: "2024-07-17"
 keywords: [camps]
@@ -16,6 +16,9 @@ Might be arriving late, shops closed
 
 - [ ] Sodas and Beer
 - [ ] Initial food, some bread and cheese
+- [ ] Coffee
+- [ ] Snacks
+
 
 # Camp and work space Infrastructure
 Having a nice place to work is the goal. Make it fun to sit there.
@@ -23,18 +26,18 @@ Hack tent/pavillion, I use Coleman Event Shelter with UV protection!
 
 Also these things are used by more people in the village. Also ordered tables from BornHack and some more chairs.
 
+## Living
 - [ ] Coleman event shelter large
 - [ ] Camping table
-- [ ] Side table IKEA Lack
 - [ ] Camping chairs
 - [ ] Sun chairs?
-- [ ] Light and lamps
-- [ ] Fun LED lighting, everybody loves blinkenlights
 - [ ] Camping carpet
-- [ ] Music equipment speakers, amplifier and Tablet A6
-- [ ] Additional extensions for blinkenlights
+
+## Music and decor
+- [ ] Music equipment speakers
+- [ ] Amplifier
+- [ ] Mixer and Tablet A6
 - [ ] Decoration -- husk pinde til samurai
-- [ ] Whiteboard and pens
 
 ## Kitchen stuff
 
@@ -45,7 +48,7 @@ Also these things are used by more people in the village. Also ordered tables fr
 - [ ] Termo cup for tea and coffee
 - [ ] Water heater JetBoil works for me
 - [ ] Cups for tea and coffee
-- [ ] Plates, utensilcs etc.
+- [ ] Plates, utensils etc.
 - [ ] A few sharp knifes for preparing food, cutting etc.
 - [ ] Cutting boards
 - [ ] Containers for food - misc sizes
@@ -60,10 +63,17 @@ If the camp provides power -- you need more than you think:
 - [ ] Long extension cords 25m and rolls, multiple
 - [ ] Power cables as needed for disibution "inside" power strips with 3-5m and 10 plugs work great
 
+## Infrastructure
+- [ ] Light and lamps
+- [ ] Fun LED lighting, everybody loves blinkenlights
+- [ ] Additional extensions for blinkenlights
+- [ ] Whiteboard and pens
+
 ## Solar and DC Networking
 
 - [ ] Battery and solar panel, I use Ecoflow which is easy
 - [ ] DC Power cables as needed -- y splitter
+- [ ] Powerbanks and cables
 
 ## Tools and misc
 - [ ] Radios Boafeng x2
@@ -74,6 +84,9 @@ If the camp provides power -- you need more than you think:
 - [ ] Samsung printer
 - [ ] Xerox printer plus nevertear
 - [ ] A4 printer paper
+- [ ] Gaffa tape
+- [ ] Fire equipment can
+- [ ] Electric Pump
 
 # Network equipment
 Many hacker camps provide Internet connections, wired! You can often get better connectivity than a wireless network across a field, so bring:
@@ -88,6 +101,12 @@ Many hacker camps provide Internet connections, wired! You can often get better 
 - [ ] Armored fiber cables
 - [ ] SFPs
 
+## 100G equipment
+- [ ] Arista 7150S
+- [ ] Mellanox SN2700 switch
+- [ ] PCs with Bluefield cards
+- [ ] Small Dell with 10G
+- [ ] Cables
 
 # Workshop Servers and Stuff
 This part is a bit personal, I bring a lot of computers to play with, YMMV:
@@ -104,6 +123,7 @@ This part is a bit personal, I bring a lot of computers to play with, YMMV:
 - [ ] Primary laptop Razer
 - [ ] Extra laptop Asus Zenbook, KEA Mac
 - [ ] Tablet
+- [ ] Portable monitor
 - [ ] Keyboard, Mouse - and mouse pad
 - [ ] Timon Kubernetes server
 - [ ] Monitor plus cables, minijack, HDMI, power
@@ -124,7 +144,9 @@ Each person need a place to sleep. In bigger villages we put them around the com
 - [ ] Mattress, don't buy the cheap crappy ones, proper camping self-inflating mats work for me over +5 years
 - [ ] Bed sheet
 - [ ] Sleeping bag
-- [ ] Pillow
+- [ ] Quilts/duvet
+- [ ] Pillow -- Pillow -- Pillow -- Pillow -- Pillow
+
 
 
 # Personal
@@ -134,15 +156,37 @@ Take care of yourself
 - [ ] Contact lenses, glasses
 - [ ] Medicine, prescription ones of course, but also if you get stomach acid easily Alminox
 - [ ] Sun screen protection, SPF +20 for nerds :-)
-- [ ] Sun glasses or a hat perhaps
-- [ ] Trousers
-- [ ] Relaxed clothing
-- [ ] Shorts and bathing shorts?
-- [ ] Cool t-shirts
-- [ ] Hoodies, to keep you warm at night
-- [ ] Underwear and socks
-- [ ] Sandals
 - [ ] Soap/shampoo
 - [ ] Cotton buds
 - [ ] Tooth brush and paste
 - [ ] Towel, always know where it is!
+
+## Clothes
+- [ ] Rain coat Salomon
+- [ ] Trousers
+- [ ] Shorts
+- [ ] T-shirts
+- [ ] Hoodies, to keep you warm at night
+- [ ] Underwear and socks
+- [ ] Relaxed clothing, blue 3/4 trousers
+- [ ] Shorts and bathing shorts?
+- [ ] Sun glasses or a hat perhaps
+- [ ] Cap
+- [ ] Small bag for carrying stuff around
+
+## Shoes
+- [ ] Sandals
+- [ ] New Saguaro
+- [ ] Sneakers multiple
+- [ ] Fellraiser red
+
+## Body
+- [ ] Ear protection!
+- [ ] Contact lenses, glasses
+- [ ] Medicine, Alminox, ear
+- [ ] Sun screen protection
+- [ ] V6 chewing gum
+- [ ] Soap/shampoo
+- [ ] Tooth brush and paste
+- [ ] Razor
+- [ ] Towels, always know where it is!

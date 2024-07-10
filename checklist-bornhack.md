@@ -104,19 +104,10 @@ Many hacker camps provide Internet connections, wired! You can often get better 
 ## 100G equipment
 - [ ] Arista 7150S
 - [ ] Mellanox SN2700 switch
-- [ ] PCs with Bluefield cards
-- [ ] Small Dell with 10G
-- [ ] Cables
-
-# Workshop Servers and Stuff
-This part is a bit personal, I bring a lot of computers to play with, YMMV:
-
+- [ ] DAC Cables -- 10G and QSFP mixed
 - [ ] Internet in a box
-- [ ] Arista
-- [ ] Dell small server and tower
-- [ ] Extra 10G cards
-- [ ] Twinax cables
-- [ ] XPC with small server 10G
+- [ ] Dell small server and tower with Bluefield cards
+
 
 # My Computers and extras
 

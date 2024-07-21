@@ -37,7 +37,7 @@ Also these things are used by more people in the village. Also ordered tables fr
 - [ ] Music equipment speakers
 - [ ] Amplifier
 - [ ] Mixer and Tablet A6
-- [ ] Decoration -- husk pinde til samurai
+- [ ] Decoration bamser, skilte osv. -- husk pinde til samurai
 
 ## Kitchen stuff
 
@@ -151,6 +151,7 @@ Take care of yourself
 - [ ] Cotton buds
 - [ ] Tooth brush and paste
 - [ ] Towel, always know where it is!
+- [ ] Large container for washing stuff and feet :-D
 
 ## Clothes
 - [ ] Rain coat Salomon
